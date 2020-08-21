@@ -36,7 +36,7 @@
  *
  *
  */
-public class NumRever {
+public class NumRever07 {
     public int reverse(int x) {
         int rev  = 0;
         while (x != 0) {
